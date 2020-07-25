@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Saving data to local db example</string>
+    <string name="list_empty">No words</string>
+    <string name="add_word_btn_text">Save</string>
+</resources>
